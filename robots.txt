@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://restaurantetempeh.com.br/sitemap.xml
